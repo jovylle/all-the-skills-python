@@ -38,14 +38,14 @@ It includes early examples of:
 
 ## GitHub Pages
 
-The public site lives in `docs/`.
+The public site lives in `docs/`, and the repository includes a GitHub Actions workflow at `.github/workflows/pages.yml` to publish that folder.
 
 To deploy it on GitHub:
 
 1. Open the repository settings.
 2. Go to **Pages**.
-3. Set the source to **Deploy from a branch**.
-4. Select `master` and `/docs`.
+3. Set the source to **GitHub Actions**.
+4. Run the **Deploy GitHub Pages** workflow, or push another commit to `master`.
 5. Save.
 
 After GitHub builds it, the site should be available at:
