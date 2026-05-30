@@ -2,6 +2,13 @@
 
 This repository started as a small college-era Python practice repo. It now keeps that original learning trail intact while turning the project into a cleaner public archive for Python basics, Django Girls notes, and AI-assisted study experiments.
 
+## Repository info
+
+- **Description:** A revived college-era Python learning archive with legacy exercises, GitHub Pages, and AI-assisted study notes.
+- **Website:** <https://jovylle.github.io/all-the-skills-python/>
+- **Repository:** <https://github.com/jovylle/all-the-skills-python>
+- **Topics:** `python`, `learning`, `djangogirls`, `github-pages`, `ai-assisted`, `college-project`
+
 ## What is here
 
 - `djangogirls/MeFirstPython.py` keeps the original beginner script as a snapshot of the first exercises.
